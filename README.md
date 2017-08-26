@@ -1,2 +1,2 @@
 # hello-world
-//I'm a code editor from OHIo, name Aaron D. Vance. Born Jan. 26th 91.
+//I'm a programmer from Ohio, USA; name Aaron D. Vance. Born Jan. 25th 1991.
